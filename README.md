@@ -4,8 +4,7 @@ Use this API exactly like common anti-captcha providers: create a task, then pol
 
 ## Base URL
 
-- Production: `https://captcha.scrappey.com`
-- Custom domain: `https://captcha.scrappey.com` (if configured)
+- Domain: `https://captcha.scrappey.com`
 
 ## Pricing
 
@@ -77,7 +76,7 @@ Send your Scrappey API key in request body as:
     "type": "MtCaptchaTask",
     "websiteURL": "https://example.com",
     "websiteKey": "MTPublic-xxxxxxxxx",
-    "proxy": "http:ip:port:user:pass"
+    "proxy": "http://ip:port@user:pass"
   }
 }
 ```
