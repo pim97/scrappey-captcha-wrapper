@@ -157,11 +157,11 @@ For MTCaptcha, `solution.type` is `mtcaptcha`.
 
 ## Node.js Example
 
-See [node-example.js](/Users/pim_d/Desktop/scrappey.com/capsolver-api-alike/scrappey-captcha-wrapper/node-example.js).
+See [node-example.js](./node-example.js).
 
 ## Python Example
 
-See [python-example.py](/Users/pim_d/Desktop/scrappey.com/capsolver-api-alike/scrappey-captcha-wrapper/python-example.py).
+See [python-example.py](./python-example.py).
 
 ## Compatibility Notes
 
